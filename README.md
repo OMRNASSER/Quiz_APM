@@ -3,6 +3,6 @@
 - review design patterns 
 
 
--[x] finish one step
+- [x] finish one step
 
 
